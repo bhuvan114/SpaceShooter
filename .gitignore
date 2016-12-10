@@ -1,0 +1,5 @@
+*.csproj
+*.userprefs
+*.sln
+*.unitypackage
+ProjectSettings/*
